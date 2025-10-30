@@ -2,7 +2,7 @@
   "name": "aiden-wong-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://yourdomain.com",
+  "homepage": "https://wongaiden.github.io/personal-website/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
